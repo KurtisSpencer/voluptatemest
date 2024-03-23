@@ -1,0 +1,32 @@
+{
+  "name": "voluptatemest",
+  "version": "1.0.0",
+  "description": "The JS library containing the Monero crypto plus lightweight wallet functions behind the official MyMonero apps",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KurtisSpencer/voluptatemest.git"
+  },
+  "keywords": [
+    "soluta",
+    "mymonero",
+    "sed",
+    "nemo",
+    "lightweight",
+    "lightwallet",
+    "perferendis",
+    "voluptatem",
+    "script",
+    "utility",
+    "tool"
+  ],
+  "author": "SigurdGutmann",
+  "license": "See LICENSE.TXT. Copyright (c) 2014-2018, MyMonero.com. All rights reserved.",
+  "bugs": {
+    "url": "https://github.com/KurtisSpencer/voluptatemest.git/issues"
+  },
+  "homepage": "https://github.com/KurtisSpencer/voluptatemest.git",
+  "dependencies": {
+    "async": "^2.6.0"
+  }
+}
